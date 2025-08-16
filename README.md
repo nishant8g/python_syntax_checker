@@ -1,4 +1,3 @@
-# python_syntax_checker
 # Python Syntax Checker Tool 🐍✅
 
 A simple web-based utility built with Streamlit to check Python scripts for syntax errors without executing the code. This tool is designed to help beginner programmers quickly validate their code.
